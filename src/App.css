@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  margin-top: 100px;
+  
+}
+html {
+  background-image: url('assets/canvas.jpg');
 }
 
 .App-logo {
@@ -30,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+.poem {
+  font-family: 'Rock Salt', cursive;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.card-title {
+  font-family: 'Rock Salt', cursive;
+  font-weight: bold;
 }
