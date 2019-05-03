@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
 
 
 const stringArr = ['Today is your Birthday,  I’m glad you’re my wife;',
@@ -18,6 +18,8 @@ function App() {
     <div className="App">
     <h1 className='card-title'>To: Sara</h1>
     {stringArr.map(string => <div className='poem'>{string}</div>)}
+    <h2 className='card-title'>~Love Mike</h2>
+    <img className='flower3' src={require('./assets/flower3.png')} alt='flower' width='200px'/>
     </div>
   );
 }
