@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8aa68e58868ccbe03153b0a451742f4",
+    "revision": "78d6ce192cf555b97c8c6d2dee85b6b7",
     "url": "/bday-card/index.html"
   },
   {
-    "revision": "d7b960af748a1a8a6532",
-    "url": "/bday-card/static/css/main.0a24a875.chunk.css"
+    "revision": "6df10b08457166c256b7",
+    "url": "/bday-card/static/css/main.813227fd.chunk.css"
   },
   {
     "revision": "62c3831d900d0014fe1c",
     "url": "/bday-card/static/js/2.7ea38da1.chunk.js"
   },
   {
-    "revision": "d7b960af748a1a8a6532",
+    "revision": "6df10b08457166c256b7",
     "url": "/bday-card/static/js/main.c70ae65d.chunk.js"
   },
   {
