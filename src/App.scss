@@ -29,18 +29,11 @@ html {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 .poem {
   font-family: 'Rock Salt', cursive;
   font-size: 22px;
   font-weight: bold;
+  padding: 0 .5em 0 .5em;
 }
 
 .card-title {
@@ -51,4 +44,13 @@ html {
   position: absolute;
   top: 50px;
   left: 2px;
+  @media only screen and (max-width: 1200px) {
+    width: 125px;
+    top: 15px;
+  }
+  @media only screen and (max-width: 800px) {
+    width: 90px;
+    top: 15px;
+  }
 }
+
