@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bday-card/static/css/main.f9f807d2.chunk.css",
+    "main.css": "/bday-card/static/css/main.9553ba47.chunk.css",
     "main.js": "/bday-card/static/js/main.be3992ed.chunk.js",
     "main.js.map": "/bday-card/static/js/main.be3992ed.chunk.js.map",
     "runtime~main.js": "/bday-card/static/js/runtime~main.a2b2780b.js",
@@ -8,9 +8,9 @@
     "static/js/2.3e4a8761.chunk.js": "/bday-card/static/js/2.3e4a8761.chunk.js",
     "static/js/2.3e4a8761.chunk.js.map": "/bday-card/static/js/2.3e4a8761.chunk.js.map",
     "index.html": "/bday-card/index.html",
-    "precache-manifest.20ee94ca1d9c95f1e385c7d4ddeac7a4.js": "/bday-card/precache-manifest.20ee94ca1d9c95f1e385c7d4ddeac7a4.js",
+    "precache-manifest.78bb0db7fa9ca3534f564de762d0bea7.js": "/bday-card/precache-manifest.78bb0db7fa9ca3534f564de762d0bea7.js",
     "service-worker.js": "/bday-card/service-worker.js",
-    "static/css/main.f9f807d2.chunk.css.map": "/bday-card/static/css/main.f9f807d2.chunk.css.map",
+    "static/css/main.9553ba47.chunk.css.map": "/bday-card/static/css/main.9553ba47.chunk.css.map",
     "static/media/App.scss": "/bday-card/static/media/coralish-canvas.b8ab7c14.jpeg",
     "static/media/flower3.png": "/bday-card/static/media/flower3.daa264e3.png"
   }
