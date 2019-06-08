@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "096a6de7f0f0fe13e6e9a48e08f002e4",
+    "revision": "f3145432d9bfd9175fabd8d611cbed82",
     "url": "/bday-card/index.html"
   },
   {
-    "revision": "1c6231611a2797f1e7da",
-    "url": "/bday-card/static/css/main.52fd34ac.chunk.css"
+    "revision": "f585f26aa2e4ef3f594a",
+    "url": "/bday-card/static/css/main.f9f807d2.chunk.css"
   },
   {
-    "revision": "62c3831d900d0014fe1c",
-    "url": "/bday-card/static/js/2.7ea38da1.chunk.js"
+    "revision": "2c03651903b2d02e6bf9",
+    "url": "/bday-card/static/js/2.3e4a8761.chunk.js"
   },
   {
-    "revision": "1c6231611a2797f1e7da",
-    "url": "/bday-card/static/js/main.c70ae65d.chunk.js"
+    "revision": "f585f26aa2e4ef3f594a",
+    "url": "/bday-card/static/js/main.be3992ed.chunk.js"
   },
   {
     "revision": "15cc930e10fd95e236e1",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6a0b164de67803932e353d093cfb14a5",
     "url": "/bday-card/static/media/canvas.6a0b164d.jpg"
+  },
+  {
+    "revision": "b8ab7c14318178e9172ecb6bcfbf1343",
+    "url": "/bday-card/static/media/coralish-canvas.b8ab7c14.jpeg"
   },
   {
     "revision": "daa264e367ee2de61f8f378cdef2fdf1",
