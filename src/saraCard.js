@@ -15,7 +15,10 @@ const stringArr = ['Today is your Birthday,  I’m glad you’re my wife;',
 export default class SaraCard extends Component {
     render() {
         return (
-            <div className="App">
+            <div className="App sara">
+              <head>
+                <title>Sara's Birthday Card</title>
+              </head>
             <h1 className='card-title'>To: Sara</h1>
             {stringArr.map(string => <div className='poem'>{string}</div>)}
             <h2 className='card-title'>~Love Mike</h2>
